@@ -1,23 +1,3 @@
-Perfect — now it’s clear. So, the project is about **Tweet Content Simulation** where you:
-
-* Use **VLM (Vision-Language Model)** to extract visual context from media URLs (images/videos/gifs).
-* Combine that visual embedding with text-based tweet metadata (company, username, timestamp, etc.)
-* Fine-tune a **LLM (Mistral)** on this enriched dataset to generate tweet content conditioned on both text and visual features.
-
-I’ll generate a **complete `README.md`** that:
-✅ Explains the **project objective**,
-✅ Highlights the **methodology** (VLM → data enrichment → LLM fine-tuning),
-✅ Details **setup and dependencies**,
-✅ Guides the user on **how to execute both notebooks (`vlm.ipynb` and `llm.ipynb`)**,
-✅ Includes a **sample workflow**, and
-✅ Provides **clear folder structure** and **evaluation details**.
-
----
-
-Here’s your final **README.md** 👇
-
----
-
 # 🚀 Tweet Content Simulation using VLM + LLM
 
 ## 📘 Overview
